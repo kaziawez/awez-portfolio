@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Awez Kazi - Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #0055ff;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      margin: 20px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background: #222;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Awez Kazi</h1>
+    <p>Web Developer | Learner | Hustler</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>I am a B.Tech student learning full stack web development. I love building creative websites and working on real projects.</p>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li>💻 HTML Portfolio Website</li>
+      <li>🎨 CSS Styled Page</li>
+      <li>📝 Resume Page</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Contact: kaziawez56@gmail.com</p>
+  </footer>
+</body>
+</html>
